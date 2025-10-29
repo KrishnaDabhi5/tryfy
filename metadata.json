@@ -1,0 +1,5 @@
+{
+  "name": "TryFy: AI Virtual Try-On",
+  "description": "An AI-powered web application that allows users to virtually try on clothes. Users upload a photo of a person and a photo of a garment, and the AI generates a realistic image of the person wearing the garment.",
+  "requestFramePermissions": []
+}
